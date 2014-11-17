@@ -16,4 +16,4 @@ function attackHook(attacker,victim) {
 		var rnd = Math.floor(Math.random()*(messages.length)); //(pseudo) random number from 0 to the length of the messages array
 		clientMessage("Your clone: " + messages[rnd]);
 	}
-}
+}A
